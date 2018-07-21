@@ -1,0 +1,4 @@
+[submodule "enovasi/plants"]
+	path = enovasi/plants
+	url = git@github.com:enovasi/plants.git
+	branch = master
