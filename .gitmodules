@@ -2,3 +2,8 @@
 	path = mart-e/odoodays-2017
 	url = git@github.com:mart-e/odoodays-2017.git
 	branch = master
+
+[submodule "mart-e/odoo-addons"]
+	path = mart-e/odoo-addons
+	url = git@github.com:mart-e/odoo-addons.git
+	branch = 11.0
