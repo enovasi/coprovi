@@ -2,3 +2,8 @@
 	path = mart-e/odoodays-2017
 	url = git@github.com:mart-e/odoodays-2017.git
 	branch = master
+
+[submodule "hondurasopen/loan_management"]
+	path = hondurasopen/loan_management
+	url = git@github.com:hondurasopen/loan_management.git
+	branch = master
